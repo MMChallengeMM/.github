@@ -24,7 +24,9 @@ O desafio da CCR busca implementar uma solução que:
 ## ☁️ Repositórios
 
 - [**Challenge-1sem-2024-Python**](https://github.com/MMChallengeMM/Challenge-1sem-2024-Python): Menu em Python com sistema de histórico de falhas.
-- [**Challenge-1sem-2024-Java**](https://github.com/MMChallengeMM/Java-CCR-System): Documentações para o futuro projeto em Java.
+- [**Challenge-1sem-2024-Java**](https://github.com/MMChallengeMM/Challenge-1sem-2024-Java): Documentação para o futuro projeto em Java.
+- [**Challenge-1sem-2024-Chatbot**](https://github.com/MMChallengeMM/Challenge-1sem-2024-Chatbot): Documentação do assistente virtual do projeto.
+- [**Challenge-1sem-2024-Database**](https://github.com/MMChallengeMM/Challenge-1sem-2024-Database): Documentação para o projeto de banco de dados.
 
 ## 🤖 Tecnologias Utilizadas
 
