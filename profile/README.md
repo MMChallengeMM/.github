@@ -27,13 +27,12 @@ O desafio da CCR busca implementar uma solução que:
 - [**Challenge-1sem-2024-Java**](https://github.com/MMChallengeMM/Challenge-1sem-2024-Java): Documentação para o futuro projeto em Java.
 - [**Challenge-1sem-2024-Chatbot**](https://github.com/MMChallengeMM/Challenge-1sem-2024-Chatbot): Documentação do assistente virtual do projeto.
 - [**Challenge-1sem-2024-Database**](https://github.com/MMChallengeMM/Challenge-1sem-2024-Database): Documentação para o projeto de banco de dados.
+- [**Challenge-1sem-2024--BusinessModel**](https://github.com/MMChallengeMM/Challenge-1sem-2024-BusinessModel): Documentação, backlog, mapa de empatia e BMC do projeto.
 
 ## 🤖 Tecnologias Utilizadas
 
 - **Java**: Para desenvolvimento da solução principal de monitoramento e gestão.
 - **Python**: Utilizado no sistema de histórico de falhas.
-- **SQLite**: Banco de dados para armazenar e gerenciar informações.
-- **CSS/HTML**: Para a interface e personalização visual.
 
 ## 🤝 Contribuições
 
