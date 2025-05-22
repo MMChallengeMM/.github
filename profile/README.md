@@ -16,8 +16,6 @@ O **Marmota Mobilidade** desenvolve soluções para a **automação do Centro de
 - **Automação Operacional**: Redução da intervenção manual.
 
 ## 📂 Repositórios
-
-# ALTERAR !!!!
 - [Challenge-Python](https://github.com/MMChallengeMM/Challenge-Python): Sistema de histórico de falhas.
 - [Challenge-Java](https://github.com/CHALLENGE-MM/quarkus-teste) Documentação do projeto Java.
 - [Challenge-Chatbot](https://github.com/MMChallengeMM/Challenge-Chatbot): Assistente virtual do projeto.
