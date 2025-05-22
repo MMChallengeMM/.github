@@ -19,7 +19,7 @@ O **Marmota Mobilidade** desenvolve soluções para a **automação do Centro de
 
 # ALTERAR !!!!
 - [Challenge-Python](https://github.com/MMChallengeMM/Challenge-Python): Sistema de histórico de falhas.
-- [Challenge-Java](https://github.com/MMChallengeMM/Challenge-Java): Documentação do projeto Java.
+- [Challenge-Java](https://github.com/CHALLENGE-MM/quarkus-teste) Documentação do projeto Java.
 - [Challenge-Chatbot](https://github.com/MMChallengeMM/Challenge-Chatbot): Assistente virtual do projeto.
 - [Challenge-Database](https://github.com/MMChallengeMM/Challenge-Database): Banco de dados do projeto.
 - [Challenge-BusinessModel](https://github.com/MMChallengeMM/Challenge-BusinessModel): Documentação e planejamento estratégico.
